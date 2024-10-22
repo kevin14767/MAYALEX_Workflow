@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf"><dc:title>Scanned using Zeutschel OS 16000 by ScannX</dc:title>
+<dc:subject></dc:subject>
+<dc:description></dc:description>
+<dc:language>en-US</dc:language>
+<dc:creator opf:role="aut">Unknown Author</dc:creator><dc:identifier id="uuid">Id_1A940243-ECD8-4A66-B57C-70DCD5F46A66_</dc:identifier>
+</metadata>
+<manifest>
+<item href="main.xhtml" id="id0" media-type="application/xhtml+xml"/>
+<item href="main-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+<item href="main-2.xhtml" id="id2" media-type="application/xhtml+xml"/>
+<item href="main-3.xhtml" id="id3" media-type="application/xhtml+xml"/>
+<item href="main.css" id="id4" media-type="text/css"/>
+<item href="toc.ncx" id="id5" media-type="application/x-dtbncx+xml"/>
+</manifest>
+<spine toc="id5"><itemref idref="id0"/><itemref idref="id1"/><itemref idref="id2"/><itemref idref="id3"/></spine></package>

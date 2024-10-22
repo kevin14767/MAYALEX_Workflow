@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en-US">
+<head><meta name="dtb:uid" content="Id_1A940243-ECD8-4A66-B57C-70DCD5F46A66_"/></head>
+<docTitle><text>Scanned using Zeutschel OS 16000 by ScannX</text></docTitle>
+<navMap>
+<navPoint playOrder="1" id="Id_2938CC68-AEE6-4B6B-AFA7-386E9F545104_"><navLabel><text>Appendix E</text></navLabel><content src="main.xhtml#caption1"/></navPoint>
+<navPoint playOrder="2" id="Id_1E7A32C9-58FB-4A4E-B5DE-5E844B1EF005_"><navLabel><text>Vocabulario Ch’olti’</text></navLabel><content src="main-1.xhtml"/></navPoint>
+<navPoint playOrder="3" id="Id_18BB03AE-53BF-4F2C-B949-436E76895EAE_"><navLabel><text>An English-Spanish-Ch’olti’ Word List</text></navLabel><content src="main-2.xhtml"/></navPoint>
+<navPoint playOrder="4" id="Id_6BA329DB-FD07-437D-B01F-88C45596D439_"><navLabel><text>neu°</text></navLabel><content src="main-3.xhtml"/></navPoint>
+</navMap></ncx>
